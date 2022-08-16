@@ -1,0 +1,16 @@
+.footer {
+  margin: 10rem 0 5rem 0;
+  display: flex;
+  justify-content: center;
+  color: var(--txt-2);
+  font-size: 0.6rem;
+}
+
+.footer__rawg-link {
+  margin-left: 0.4em;
+  color: var(--txt-1);
+}
+
+.footer__rawg-link:hover {
+  color: var(--orange);
+}
